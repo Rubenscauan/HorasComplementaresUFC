@@ -2,6 +2,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="200" align="center">
     <p>Banco de Horas Complementares</p>
 </h1>
+<h1 align="center">
+    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+    <img src="http://img.shields.io/static/v1?label=Linguagem&message=SQL&color=orange&style=for-the-badge"/>
+</h1>
+
+
 
 ## Introdução
 
